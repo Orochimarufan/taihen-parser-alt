@@ -1,0 +1,6 @@
+/taihen-parser/
+*.workspace
+*.project
+/build/
+/.codelite
+
